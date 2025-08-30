@@ -10,7 +10,7 @@ This project contains a Python script (`api.py`) that interacts with the HackerR
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - `requests` library
 
 Install dependencies:
@@ -49,4 +49,4 @@ python api.py
 
 ## License
 
-This project is for educational purposes.
+This project is for educational purposes only.
